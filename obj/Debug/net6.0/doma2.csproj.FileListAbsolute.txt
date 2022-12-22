@@ -1,0 +1,15 @@
+C:\Users\su\Pictures\doma2\bin\Debug\net6.0\doma2.exe
+C:\Users\su\Pictures\doma2\bin\Debug\net6.0\doma2.deps.json
+C:\Users\su\Pictures\doma2\bin\Debug\net6.0\doma2.runtimeconfig.json
+C:\Users\su\Pictures\doma2\bin\Debug\net6.0\doma2.dll
+C:\Users\su\Pictures\doma2\bin\Debug\net6.0\doma2.pdb
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\doma2.csproj.AssemblyReference.cache
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\doma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\doma2.AssemblyInfoInputs.cache
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\doma2.AssemblyInfo.cs
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\doma2.csproj.CoreCompileInputs.cache
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\doma2.dll
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\refint\doma2.dll
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\doma2.pdb
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\doma2.genruntimeconfig.cache
+C:\Users\su\Pictures\doma2\obj\Debug\net6.0\ref\doma2.dll
